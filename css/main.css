@@ -1773,7 +1773,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffee5d;
+  background: #ffff60;
 }
 .feed-link,
 .chat {
@@ -2794,7 +2794,7 @@ ul.breadcrumb li+li:last-child {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 body {
-  background: url("/images/5cf8d295ea787.png");
+  background: url("/images/5cf8d28f79145.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
