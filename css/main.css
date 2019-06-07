@@ -1773,7 +1773,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #60d7ff;
+  background: #ffdaff;
 }
 .feed-link,
 .chat {
@@ -2794,11 +2794,11 @@ ul.breadcrumb li+li:last-child {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 body {
-  background: url("u=2179990827,3763693470&fm=26&gp=0.png");
+  background: url("/images/9fa6954bd81b1ae533092807b91ad7f4.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 50% 50%;
+  background-position: center;
 }
 .main-inner {
   background: #fff;
